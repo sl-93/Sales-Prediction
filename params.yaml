@@ -1,0 +1,12 @@
+lgb:
+  - num_leaves: [10, 20, 40, 63, 70]
+  - max_depth: [3, 4, 5, 7]
+  - learning_rate: [0.01, 0.05, 0.1]
+  - n_estimators: [200, 600, 800, 1000]
+  - sub_feature: [0.5, 0.7]
+  - min_child_samples: [20, 40, 50]
+  - reg_lambda: [0.1]
+  - reg_alpha: [0.1]
+  - verbosity': [-1]
+
+

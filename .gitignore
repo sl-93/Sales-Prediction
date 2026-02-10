@@ -1,0 +1,5 @@
+venv/
+logs/
+output/
+Data/
+src/__pycache__

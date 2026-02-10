@@ -1,0 +1,2670 @@
+{
+    "1_2_5_1": {
+        "to_remove": [],
+        "to_add": [
+            "Record_WeekDay",
+            "WeekDay_Discount",
+            "StartOfLongWeekend",
+            "BeforeWeekend"
+        ],
+        "ma": [],
+        "auto_corr": [],
+        "week_day_indicator": []
+    },
+    "7_5_9_2": {
+        "to_remove": [
+            "Occastion_ID"
+        ],
+        "to_add": [
+            "IsBeforeHolliday"
+        ],
+        "ma": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "auto_corr": [],
+        "week_day_indicator": [
+            1,
+            1,
+            0,
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    "1_1_1_1": {
+        "to_remove": [
+            "school"
+        ],
+        "to_add": [
+            "summerdays",
+            "Summer_Discount"
+        ],
+        "ma": [
+            0,
+            1,
+            1,
+            0
+        ],
+        "auto_corr": [],
+        "week_day_indicator": []
+    },
+    "3_9_2_4": {
+        "to_remove": [
+            "weekend"
+        ],
+        "to_add": [
+            "LastWeekOfYear",
+            "Nouroz_MA_30"
+        ],
+        "ma": [
+            0,
+            1,
+            1,
+            0
+        ],
+        "auto_corr": [
+            1,
+            0,
+            0,
+            1
+        ],
+        "week_day_indicator": [
+            1,
+            0,
+            0,
+            0,
+            1,
+            1,
+            0
+        ]
+    },
+    "7_5_5_1": {
+        "to_remove": [],
+        "to_add": [
+            "StartOfLongWeekend",
+            "IsBeforeHolliday",
+            "AfterWeekend",
+            "Nouroz_MA_30",
+            "MA_15_Days_1",
+            "MA_15_school_coef",
+            "MA_30_school_coef"
+        ],
+        "ma": [
+            0,
+            1,
+            1,
+            0
+        ],
+        "auto_corr": [
+            1,
+            0,
+            0,
+            1
+        ],
+        "week_day_indicator": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    "3_9_2_1": {
+        "to_remove": [
+            "weekend"
+        ],
+        "to_add": [
+            "LastWeekOfYear",
+            "Nouroz_MA_30"
+        ],
+        "ma": [
+            0,
+            1,
+            1,
+            0
+        ],
+        "auto_corr": [
+            1,
+            0,
+            0,
+            1
+        ],
+        "week_day_indicator": [
+            1,
+            0,
+            0,
+            0,
+            1,
+            1,
+            0
+        ]
+    },
+    "3_9_1_1": {
+        "to_remove": [],
+        "to_add": [],
+        "ma": [
+            0,
+            1,
+            1,
+            0
+        ],
+        "week_day_indicator": [],
+        "auto_corr": []
+    },
+    "2_6_2_1": {
+        "to_remove": [],
+        "to_add": [
+            "NourozHolliday_Coef",
+            "LastWeekOfYear",
+            "Nouroz_MA_15",
+            "LastWeekOfYear_MA_30"
+        ],
+        "ma": [
+            0,
+            0,
+            1,
+            0
+        ],
+        "week_day_indicator": [
+            0,
+            1,
+            1,
+            1,
+            1,
+            0,
+            1
+        ],
+        "auto_corr": []
+    },
+    "7_1_2_2": {
+        "to_remove": [],
+        "to_add": [
+            "BeforeWeekend",
+            "LongWeekend",
+            "Nouroz_MA_15"
+        ],
+        "ma": [
+            0,
+            1,
+            1,
+            0
+        ],
+        "week_day_indicator": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "auto_corr": [
+            1,
+            0,
+            0,
+            1
+        ]
+    },
+    "2_7_2_2": {
+        "to_remove": [
+            "discount"
+        ],
+        "to_add": [
+            "LastWeekOfYear",
+            "paycheck_MA_30",
+            "WeekDays_6_Discount",
+            "LastWeekOfYear_MA_30"
+        ],
+        "ma": [
+            1,
+            1,
+            0,
+            0
+        ],
+        "week_day_indicator": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "auto_corr": [
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    "7_5_5_3": {
+        "to_remove": [],
+        "to_add": [
+            "StartOfLongWeekend",
+            "IsBeforeHolliday",
+            "AfterWeekend",
+            "Nouroz_MA_30",
+            "MA_15_Days_1"
+        ],
+        "ma": [
+            0,
+            1,
+            1,
+            0
+        ],
+        "auto_corr": [
+            1,
+            0,
+            0,
+            1
+        ],
+        "week_day_indicator": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    "1_1_2_1": {
+        "to_remove": [],
+        "to_add": [
+            "Summer_Discount",
+            "WeekDays_6_Discount",
+            "NourozHolliday_Coef"
+        ],
+        "ma": [
+            1,
+            1,
+            0,
+            0
+        ],
+        "week_day_indicator": [
+            0,
+            1,
+            1,
+            0,
+            0,
+            1,
+            0
+        ],
+        "auto_corr": [
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "3_7_2_2": {
+        "to_remove": [],
+        "to_add": [
+            "NourozHolliday_Coef",
+            "LastWeekOfYear",
+            "WeekDay_Discount",
+            "LastWeekOfYear_MA_30"
+        ],
+        "ma": [
+            1,
+            1,
+            1,
+            0
+        ],
+        "week_day_indicator": [],
+        "auto_corr": [
+            1,
+            0,
+            0,
+            1
+        ]
+    },
+    "3_15_3_1": {
+        "to_remove": [
+            "Week_Day_Cos",
+            "Week_Day_Sin",
+            "school",
+            "IsHolliday"
+        ],
+        "to_add": [
+            "NourozHolliday_Coef",
+            "LastWeekOfYear",
+            "WeekDay_Discount",
+            "LastWeekOfYear_MA_30"
+        ],
+        "ma": [
+            0,
+            1,
+            1,
+            0
+        ],
+        "week_day_indicator": [],
+        "auto_corr": [
+            1,
+            0,
+            0,
+            1
+        ]
+    },
+    "7_6_1_1": {
+        "to_remove": [
+            "school"
+        ],
+        "to_add": [
+            "BeforeWeekend",
+            "NourozHolliday_Coef",
+            "LastWeekOfYear",
+            "StartOfLongWeekend",
+            "IsBeforeHolliday",
+            "Month_Holliday",
+            "Month_Holliday_2"
+        ],
+        "ma": [
+            0,
+            1,
+            1,
+            0
+        ],
+        "week_day_indicator": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "auto_corr": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    "7_1_7_2": {
+        "to_remove": [
+            "school"
+        ],
+        "to_add": [],
+        "ma": [
+            0,
+            1,
+            1,
+            0
+        ],
+        "week_day_indicator": [],
+        "auto_corr": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    "2_2_4_2": {
+        "to_remove": [
+            "school"
+        ],
+        "to_add": [
+            "NourozHolliday_Coef",
+            "LastWeekOfYear",
+            "Month_MA_30"
+        ],
+        "ma": [
+            0,
+            1,
+            1,
+            1
+        ],
+        "week_day_indicator": [],
+        "auto_corr": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    "1_2_3_1": {
+        "to_remove": [],
+        "to_add": [
+            "Record_WeekDay",
+            "WeekDay_Discount",
+            "StartOfLongWeekend",
+            "BeforeWeekend"
+        ],
+        "ma": [],
+        "auto_corr": [],
+        "week_day_indicator": []
+    },
+    "2_3_2_5": {
+        "to_remove": [
+            "school"
+        ],
+        "to_add": [
+            "NourozHolliday_Coef",
+            "LastWeekOfYear"
+        ],
+        "ma": [
+            0,
+            1,
+            1,
+            0
+        ],
+        "week_day_indicator": [],
+        "auto_corr": []
+    },
+    "7_5_3_3": {
+        "to_remove": [
+            "school"
+        ],
+        "to_add": [
+            "StartOfLongWeekend",
+            "IsBeforeHolliday",
+            "AfterWeekend",
+            "Nouroz_MA_30"
+        ],
+        "ma": [
+            0,
+            1,
+            1,
+            0
+        ],
+        "auto_corr": [
+            1,
+            0,
+            0,
+            1
+        ],
+        "week_day_indicator": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    "2_7_1_2": {
+        "to_remove": [
+            "school"
+        ],
+        "to_add": [
+            "NourozHolliday_Coef",
+            "LastWeekOfYear",
+            "LastWeekOfYear_MA_30"
+        ],
+        "ma": [
+            0,
+            1,
+            1,
+            0
+        ],
+        "week_day_indicator": [],
+        "auto_corr": [
+            1,
+            0,
+            0,
+            1
+        ]
+    },
+    "3_1_1_3": {
+        "to_remove": [
+            "school",
+            "MonthWeeks"
+        ],
+        "to_add": [
+            "NourozHolliday_Coef",
+            "LastWeekOfYear",
+            "paycheck_MA_30"
+        ],
+        "ma": [
+            0,
+            1,
+            1,
+            0
+        ],
+        "week_day_indicator": [],
+        "auto_corr": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    "2_2_1_6": {
+        "to_remove": [],
+        "to_add": [
+            "NourozHolliday_Coef",
+            "LastWeekOfYear",
+            "Nouroz_MA_15",
+            "LastWeekOfYear_MA_30"
+        ],
+        "ma": [
+            0,
+            1,
+            1,
+            0
+        ],
+        "week_day_indicator": [
+            0,
+            1,
+            1,
+            1,
+            1,
+            0,
+            1
+        ],
+        "auto_corr": []
+    },
+    "3_4_2_1": {
+        "to_remove": [],
+        "to_add": [
+            "NourozHolliday_Coef",
+            "LastWeekOfYear",
+            "Nouroz_MA_30"
+        ],
+        "ma": [
+            0,
+            1,
+            1,
+            0
+        ],
+        "week_day_indicator": [],
+        "auto_corr": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    "1_1_2_3": {
+        "to_remove": [
+            "Week_Day_Sin",
+            "Week_Day_Cos"
+        ],
+        "to_add": [
+            "NourozHolliday_Coef",
+            "LastWeekOfYear",
+            "Nouroz_MA_30",
+            "WeekDay_Discount"
+        ],
+        "ma": [
+            0,
+            1,
+            1,
+            0
+        ],
+        "week_day_indicator": [],
+        "auto_corr": []
+    },
+    "7_5_5_2": {
+        "to_remove": [],
+        "to_add": [
+            "MA_15_school_coef",
+            "School_Days_Sin",
+            "School_Days_Cos"
+        ],
+        "ma": [
+            0,
+            1,
+            1,
+            0
+        ],
+        "auto_corr": [
+            1,
+            0,
+            0,
+            1
+        ],
+        "week_day_indicator": [
+
+        ]
+    },
+    "3_6_4_3": {
+        "to_remove": [
+            "IsHolliday"
+        ],
+        "to_add": [
+        
+            "NourozHolliday_Coef",
+            "LastWeekOfYear",
+            "Nouroz_MA_30",
+            "WeekDay_Discount",
+            "campaign",
+            "MA_15_school_coef",
+            "School_Days_Sin",
+            "School_Days_Cos"              
+        ],
+        "ma": [
+            0,
+            1,
+            1,
+            0
+        ],
+        "week_day_indicator": [],
+        "auto_corr": [
+            1,
+            0,
+            0,
+            1
+        ]
+    },
+    "2_3_2_2": {
+        "to_remove": [
+            "IsHolliday",
+            "Month_Day_Sin",
+            "school"
+        ],
+        "to_add": [
+            "NourozHolliday_Coef",
+            "LastWeekOfYear",
+            "AfterWeekend",
+            "campaign",
+            "Nouroz_MA_30"
+        ],
+        "ma": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "week_day_indicator": [],
+        "auto_corr": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    "3_15_3_2": {
+        "to_remove": [
+            "IsHolliday",
+            "school",
+            "discount",
+            "MonthWeeks",
+            "Month_Sin","Month_Cos"
+            
+        ],
+        "to_add": [
+            "LastWeekOfYear",
+            "Nouroz_MA_30"
+        ],
+        "ma": [
+            0,
+            0,
+            1,
+            0
+        ],
+        "week_day_indicator": [],
+        "auto_corr": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    "7_6_1_2": {
+        "to_remove": [
+            "IsHolliday",
+            "school",
+            "Occastion_ID"
+        ],
+        "to_add": [
+            "LastWeekOfYear",
+            "campaign",
+            "NourozHolliday_Coef",
+            "WeekDay_MA_15"
+        ],
+        "ma": [
+            0,
+            1,
+            1,
+            0
+        ],
+        "week_day_indicator": [],
+        "auto_corr": []
+    },
+    "3_4_1_11": {
+        "to_remove": [
+            "IsHolliday",
+            "school",
+            "Occastion_ID"
+        ],
+        "to_add": [
+            "LastWeekOfYear",
+            "campaign",
+            "NourozHolliday_Coef"
+        ],
+        "ma": [
+            0,
+            1,
+            1,
+            0
+        ],
+        "week_day_indicator": [],
+        "auto_corr": []
+    },
+    "7_1_3_20": {
+        "to_remove": [
+            "IsHolliday",
+            "school",
+            "Occastion_ID"
+        ],
+        "to_add": [
+            "LastWeekOfYear",
+            "campaign",
+            "NourozHolliday_Coef"
+        ],
+        "ma": [
+            0,
+            1,
+            1,
+            0
+        ],
+        "week_day_indicator": [],
+        "auto_corr": []
+    },
+    "3_2_2_6": {
+        "to_remove": [
+            "IsHolliday",
+            "school"
+        ],
+        "to_add": [
+            "LastWeekOfYear",
+            "campaign",
+            "NourozHolliday_Coef",
+            "Ramadan",
+            "WeekDays_6_Discount"
+        ],
+        "ma": [
+            0,
+            1,
+            1,
+            0
+        ],
+        "week_day_indicator": [
+            1,
+            0,
+            1,
+            1,
+            0,
+            1,
+            0
+        ],
+        "auto_corr": []
+    },
+    "2_7_1_1": {
+        "to_remove": [
+            "IsHolliday",
+            "school"
+        ],
+        "to_add": [
+            "LastWeekOfYear",
+            "campaign",
+            "NourozHolliday_Coef",
+            "Nouroz_MA_30"
+        ],
+        "ma": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "week_day_indicator": [],
+        "auto_corr": []
+    },
+    "2_5_2_1": {
+        "to_remove": [
+            "IsHolliday",
+            "school",
+            "Occastion_ID"
+        ],
+        "to_add": [
+            "LastWeekOfYear",
+            "campaign",
+            "NourozHolliday_Coef",
+            "Nouroz_MA_30"
+        ],
+        "ma": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "week_day_indicator": [],
+        "auto_corr": [
+            1,
+            0,
+            0,
+            1
+        ]
+    },
+    "7_6_1_3": {
+        "to_remove": [
+            "IsHolliday",
+            "school",
+            "Occastion_ID",
+            "Week_Day_Sin"
+        ],
+        "to_add": [
+            "LastWeekOfYear",
+            "campaign",
+            "NourozHolliday_Coef",
+            "AfterWeekend",
+            "LongWeekend",
+            "Nouroz_MA_30"
+        ],
+        "ma": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "week_day_indicator": [],
+        "auto_corr": []
+    },
+    "2_5_3_1": {
+        "to_remove": [
+            "IsHolliday",
+            "school",
+            "Occastion_ID"
+        ],
+        "to_add": [
+            "LastWeekOfYear",
+            "campaign",
+            "NourozHolliday_Coef",
+            "AfterWeekend",
+            "LongWeekend"
+        ],
+        "ma": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "week_day_indicator": [],
+        "auto_corr": []
+    },
+    "2_5_3_5": {
+        "to_remove": [
+            "IsHolliday",
+            "school",
+            "Occastion_ID"
+        ],
+        "to_add": [
+            "LastWeekOfYear",
+            "campaign",
+            "NourozHolliday_Coef",
+            "AfterWeekend",
+            "LongWeekend"
+        ],
+        "ma": [
+            0,
+            1,
+            0,
+            1
+        ],
+        "week_day_indicator": [],
+        "auto_corr": []
+    },
+    "7_1_9_3": {
+        "to_remove": [
+            "IsHolliday",
+            "school",
+            "Occastion_ID"
+        ],
+        "to_add": [
+            "LastWeekOfYear",
+            "campaign",
+            "NourozHolliday_Coef",
+            "AfterWeekend",
+            "LongWeekend"
+        ],
+        "ma": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "week_day_indicator": [],
+        "auto_corr": []
+    },
+    "3_4_1_7": {
+        "to_remove": [
+            "IsHolliday",
+            "school",
+            "Occastion_ID"
+        ],
+        "to_add": [
+            "LastWeekOfYear",
+            "campaign",
+            "NourozHolliday_Coef",
+            "AfterWeekend",
+            "LongWeekend"
+        ],
+        "ma": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "week_day_indicator": [],
+        "auto_corr": []
+    },
+    "7_1_3_6": {
+        "to_remove": [
+            "IsHolliday",
+            "school",
+            "Occastion_ID",
+            "Week_Day_Sin"
+        ],
+        "to_add": [
+            "LastWeekOfYear",
+            "campaign",
+            "NourozHolliday_Coef",
+            "AfterWeekend",
+            "LongWeekend",
+            "LastWeekOfYear_MA_30"
+        ],
+        "ma": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "week_day_indicator": [],
+        "auto_corr": []
+    },
+    "1_1_2_2": {
+        "to_remove": [
+            "IsHolliday",
+            "Occastion_ID"
+        ],
+        "to_add": [
+            "LastWeekOfYear",
+            "campaign",
+            "NourozHolliday_Coef",
+            "AfterWeekend",
+            "LongWeekend",
+            "LastWeekOfYear_MA_30",
+            "Summer_Discount"
+        ],
+        "ma": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "week_day_indicator": [],
+        "auto_corr": []
+    },
+    "3_7_3_3": {
+        "to_remove": [
+            "IsHolliday",
+            "Occastion_ID",
+            "school"
+        ],
+        "to_add": [
+            "LastWeekOfYear",
+            "campaign",
+            "NourozHolliday_Coef",
+            "summerdays",
+            "LastWeekOfYear_MA_30"
+        ],
+        "ma": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "week_day_indicator": [],
+        "auto_corr": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    "3_7_3_2": {
+        "to_remove": [
+            "IsHolliday",
+            "Occastion_ID",
+            "school"
+        ],
+        "to_add": [
+            "LastWeekOfYear",
+            "campaign",
+            "NourozHolliday_Coef",
+            "summerdays",
+            "MA-15",
+            "MA-30",
+            "LastWeekOfYear_MA_30"
+        ],
+        "ma": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "week_day_indicator": [],
+        "auto_corr": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    "3_6_1_1": {
+        "to_remove": [
+            "IsHolliday",
+            "Occastion_ID",
+            "Week_Day_Cos"
+        ],
+        "to_add": [
+            "LastWeekOfYear",
+            "campaign",
+            "NourozHolliday_Coef",
+            "summerdays",
+            "BeforeWeekend",
+            "LastWeekOfYear_MA_30"
+        ],
+        "ma": [
+            0,
+            1,
+            1,
+            0
+        ],
+        "week_day_indicator": [],
+        "auto_corr": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    "3_12_2_4": {
+        "to_remove": [
+            "IsHolliday",
+            "Occastion_ID",
+            "school",
+            "MonthWeeks",
+            "Month_Day_Cos"
+        ],
+        "to_add": [
+            "LastWeekOfYear",
+            "campaign",
+            "NourozHolliday_Coef",
+            "BeforeWeekend",
+            "IsBeforeHolliday",
+            "LastWeekOfYear_MA_30"
+        ],
+        "ma": [
+            0,
+            1,
+            1,
+            0
+        ],
+        "week_day_indicator": [
+            0,
+            1,
+            0,
+            1,
+            0,
+            1,
+            0
+        ],
+        "auto_corr": [
+            1,
+            0,
+            0,
+            1
+        ]
+    },
+    "3_6_7_5": {
+        "to_remove": [
+            "IsHolliday",
+            "Occastion_ID",
+            "MonthWeeks",
+            "MA-15",
+            "Week_Day_Sin"
+        ],
+        "to_add": [
+            "LastWeekOfYear",
+            "NourozHolliday_Coef",
+            "BeforeWeekend",
+            "LastWeekOfYear_MA_30",
+            "Nouroz_MA_30",
+            "MA_15_school_coef",
+            "School_Days_Sin",
+            "School_Days_Cos"
+        ],
+        "ma": [
+            0,
+            0,
+            1,
+            0
+        ],
+        "week_day_indicator": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "auto_corr": []
+    },
+    "3_7_1_4": {
+        "to_remove": [
+            "IsHolliday",
+            "Occastion_ID",
+            "MonthWeeks",
+            "school",
+            "NourozHolliday"
+        ],
+        "to_add": [
+            "LastWeekOfYear",
+            "campaign",
+            "NourozHolliday_Coef",
+            "BeforeWeekend"
+        ],
+        "ma": [
+            0,
+            1,
+            1,
+            0
+        ],
+        "week_day_indicator": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "auto_corr": []
+    },
+    "3_6_1_3": {
+        "to_remove": [
+            "Occastion_ID",
+            "MonthWeeks",
+            "NourozHolliday",
+            "Week_Day_Cos"
+        ],
+        "to_add": [
+            "LastWeekOfYear",
+            "NourozHolliday_Coef",
+            "summerdays",
+            "campaign_coef"
+        ],
+        "ma": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "week_day_indicator": [],
+        "auto_corr": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    "1_2_5_2": {
+        "to_remove": [
+            "Occastion_ID",
+            "MonthWeeks",
+            "Week_Day_Sin",
+            "school"
+        ],
+        "to_add": [
+            "LastWeekOfYear",
+            "summerdays",
+            "campaign",
+            "NourozHolliday"
+        ],
+        "ma": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "week_day_indicator": [],
+        "auto_corr": []
+    },
+    "7_5_3_2": {
+        "to_remove": [
+            "school"
+        ],
+        "to_add": [
+            "StartOfLongWeekend",
+            "IsBeforeHolliday",
+            "AfterWeekend",
+            "Nouroz_MA_30"
+        ],
+        "ma": [
+            0,
+            1,
+            1,
+            0
+        ],
+        "auto_corr": [
+            1,
+            0,
+            0,
+            1
+        ],
+        "week_day_indicator": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    "7_5_4_1": {
+        "to_remove": [
+            "Occastion_ID",
+            "school",
+            "IsHolliday",
+            "MonthWeeks",
+            "NourozHolliday"
+        ],
+        "to_add": [
+            "LastWeekOfYear",
+            "WeekDays_6_Discount",
+            "BeforeWeekend"
+        ],
+        "ma": [
+            0,
+            1,
+            1,
+            0
+        ],
+        "week_day_indicator": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "auto_corr": []
+    },
+    "7_5_6_3": {
+        "to_remove": [
+            "IsHolliday",
+            "Occastion_ID",
+            "MonthWeeks",
+            "MA-15",
+            "MA-30",
+            "Week_Day_Sin"
+        ],
+        "to_add": [
+            "LastWeekOfYear",
+            "NourozHolliday_Coef",
+            "BeforeWeekend",
+            "LastWeekOfYear_MA_30",
+            "Nouroz_MA_30",
+            "MA_15_school_coef",
+            "MA_30_school_coef",
+            "School_Days_Sin",
+            "School_Days_Cos"
+        ],
+        "ma": [
+            0,
+            1,
+            1,
+            0
+        ],
+        "week_day_indicator": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "auto_corr": []
+    },
+    "2_7_2_3": {
+        "to_remove": [
+            "NourozHolliday",
+            "school",
+            "MonthWeeks",
+            "IsHolliday"
+        ],
+        "to_add": [
+            "LastWeekOfYear",
+            "NourozHolliday_Coef",
+            "LastWeekOfYear_MA_30"
+        ],
+        "ma": [
+            0,
+            1,
+            0,
+            1
+        ],
+        "week_day_indicator": [
+            1,
+            1,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "auto_corr": [],
+        "feature_selection": true
+    },
+    "1_1_3_3": {
+        "to_remove": [
+            "NourozHolliday",
+            "school",
+            "MonthWeeks",
+            "IsHolliday"
+        ],
+        "to_add": [
+            "LastWeekOfYear",
+            "NourozHolliday_Coef",
+            "summerdays",
+            "summerdays_MA_15",
+            "summerdays_Week_Day_Sin",
+            "summerdays_Week_Day_Cos"
+        ],
+        "ma": [],
+        "week_day_indicator": [],
+        "auto_corr": [],
+        "feature_selection": false
+    },
+    "3_7_3_1": {
+        "to_remove": [
+            "NourozHolliday",
+            "school",
+            "MonthWeeks",
+            "IsHolliday"
+        ],
+        "to_add": [
+            "LastWeekOfYear",
+            "NourozHolliday_Coef",
+            "BeforeWeekend"
+        ],
+        "ma": [
+            0,
+            1,
+            1,
+            0
+        ],
+        "week_day_indicator": [],
+        "auto_corr": [
+            1,
+            0,
+            0,
+            1
+        ],
+        "feature_selection": false
+    },
+    "2_5_2_3": {
+        "to_remove": [
+            "NourozHolliday",
+            "school",
+            "MonthWeeks",
+            "IsHolliday"
+        ],
+        "to_add": [
+            "LastWeekOfYear",
+            "NourozHolliday_Coef",
+            "BeforeWeekend"
+        ],
+        "ma": [
+            0,
+            1,
+            1,
+            0
+        ],
+        "week_day_indicator": [],
+        "auto_corr": [
+            1,
+            0,
+            0,
+            1
+        ],
+        "feature_selection": false
+    },
+    "7_5_1_2": {
+        "to_remove": [
+            "NourozHolliday",
+            "school",
+            "MonthWeeks",
+            "IsHolliday"
+        ],
+        "to_add": [
+            "LastWeekOfYear",
+            "NourozHolliday_Coef",
+            "BeforeWeekend"
+        ],
+        "ma": [
+            0,
+            1,
+            1,
+            0
+        ],
+        "week_day_indicator": [],
+        "auto_corr": [
+            1,
+            0,
+            0,
+            1
+        ],
+        "feature_selection": false
+    },
+    "3_6_6_3": {
+        "to_remove": [
+            "school",
+            "MonthWeeks",
+            "IsHolliday",
+            "Month",
+            "NourozHolliday"
+        ],
+        "to_add": [
+            "LastWeekOfYear",
+            "BeforeWeekend",
+            "LongWeekend"
+        ],
+        "ma": [
+            0,
+            1,
+            1,
+            0
+        ],
+        "week_day_indicator": [],
+        "auto_corr": [
+            1,
+            0,
+            0,
+            1
+        ],
+        "feature_selection": false
+    },
+    "3_6_7_3": {
+        "to_remove": [
+            "MonthWeeks",
+            "school",
+            "IsHolliday",
+            "Week_Day_Sin",
+            "Week_Day_Cos",
+            "Occastion_ID",
+            "NourozHolliday",
+            "Month_Day_Sin",
+            "Month_Day_Cos",
+            "MA-15"
+            
+        ],
+        "to_add": [
+            "LastWeekOfYear",
+            "NourozHolliday_Coef",
+            "MA_15_school_coef",
+            "School_Days_Sin",
+            "School_Days_Cos"
+        ],
+        "ma": [
+            0,
+            1,
+            1,
+            0
+        ],
+        "week_day_indicator": [],
+        "auto_corr": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "feature_selection": true
+    },
+    "3_6_7_2": {
+        "to_remove": [
+            "IsHolliday",
+            "Occastion_ID",
+            "MonthWeeks",
+            "MA-15",
+            "Month_Sin",
+            "Month_Cos"
+        ],
+        "to_add": [
+            "LastWeekOfYear",
+            "campaign",
+            "NourozHolliday_Coef",
+            "BeforeWeekend",
+            "LastWeekOfYear_MA_30",
+            "Nouroz_MA_30",
+            "MA_15_school_coef",
+            "School_Days_Sin",
+            "School_Days_Cos"
+        ],
+        "ma": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "week_day_indicator": [
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1
+        ],
+        "auto_corr": []
+    },
+    "3_6_4_1": {
+        "to_remove": [
+            "MonthWeeks",
+            "Month_Sin",
+            "Occastion_ID",
+            "NourozHolliday",
+            "MA-15",
+            "MA-30"
+        ],
+        "to_add": [
+            "LastWeekOfYear",
+            "NourozHolliday_Coef",
+            "MA_15_school_coef",
+            "MA_30_school_coef",
+            "School_Days_Sin",
+            "School_Days_Cos"
+        ],
+        "ma": [
+            0,
+            1,
+            1,
+            0
+        ],
+        "week_day_indicator": [
+            1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "auto_corr": [
+            1,
+            0,
+            0,
+            0
+        ],
+        "feature_selection": false
+    },
+    "3_6_4_4": {
+        "to_remove": [
+            "Occastion_ID",
+            "NourozHolliday",
+            "MonthWeeks",
+            "MA-30",
+            "MA-15",
+            "Month_Sin",
+            "Week_Day_Cos"
+        ],
+        "to_add": [
+            "LastWeekOfYear",
+            "NourozHolliday_Coef",
+            "MA_30_school_coef",
+            "MA_15_school_coef"
+        ],
+        "ma": [
+            0,
+            1,
+            1,
+            0
+        ],
+        "week_day_indicator": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "auto_corr": [],
+        "feature_selection": false
+    },
+    "3_6_1_2": {
+        "to_remove": [
+            "Occastion_ID",
+            "NourozHolliday",
+            "MonthWeeks",
+            "MA-30",
+            "MA-15"
+        ],
+        "to_add": [
+            "LastWeekOfYear",
+            "NourozHolliday_Coef",
+            "MA_30_school_coef",
+            "MA_15_school_coef"
+        ],
+        "ma": [
+            0,
+            1,
+            1,
+            0
+        ],
+        "week_day_indicator": [],
+        "auto_corr": [],
+        "feature_selection": false
+    },
+    "3_6_7_4": {
+        "to_remove": [
+            "IsHolliday",
+            "MonthWeeks",
+            "school",
+            "Occastion_ID",
+            "NourozHolliday",
+            "Month_Sin",
+            "Week_Day_Sin",
+            "Month",
+            "Month_Cos",
+            "Month_Day_Sin",
+            "Month_Day_Cos",
+            "MA-15",
+            "MA-30"
+        ],
+        "to_add": [
+            "NourozHolliday_Coef",
+            "LastWeekOfYear",
+            "WeekDay_Discount",
+            "School_Days_Sin",
+            "School_Days_Cos",
+            "MA_30_school_coef",
+            "MA_15_school_coef"
+        ],
+        "ma": [
+            0,
+            1,
+            1,
+            0
+        ],
+        "week_day_indicator": [],
+        "auto_corr": [
+            1,
+            0,
+            0,
+            0
+        ],
+        "feature_selection": true
+    },
+    "3_6_5_1": {
+        "to_remove": [
+            "Occastion_ID",
+            "NourozHolliday",
+            "MonthWeeks",
+            "school",
+            "Month_Sin"
+        ],
+        "to_add": [
+            "LastWeekOfYear",
+            "campaign",
+            "MA_15_school_coef"
+        ],
+        "ma": [
+            0,
+            0,
+            1,
+            0
+        ],
+        "week_day_indicator": [],
+        "auto_corr": [
+            1,
+            0,
+            0,
+            0
+        ],
+        "feature_selection": false
+    },
+    "3_6_4_5": {
+        "to_remove": [
+            "Occastion_ID",
+            "NourozHolliday",
+            "MonthWeeks",
+            "school",
+            "MA-15",
+            "Month_Sin",
+            "Month_Cos",
+            "Month",
+            "MA-30",
+            "Month_Day_Sin",
+            "Month_Day_Cos"
+        ],
+        "to_add": [
+            "LastWeekOfYear",
+            "MA_15_school_coef",
+            "MA_30_school_coef",
+            "School_Days_Sin",
+            "School_Days_Cos",
+            "campaign"
+        ],
+        "ma": [
+            0,
+            1,
+            1,
+            0
+        ],
+        "week_day_indicator": [],
+        "auto_corr": [],
+        "feature_selection": true
+    },
+    "3_6_4_2": {
+        "to_remove": [
+            "MonthWeeks",
+            "school"
+        ],
+        "to_add": [
+            "MA_15_school_coef"
+        ],
+        "ma": [
+            0,
+            1,
+            1,
+            0
+        ],
+        "week_day_indicator": [],
+        "auto_corr": [],
+        "feature_selection": false
+    },
+    "3_6_2_1": {
+        "to_remove": [
+            "MonthWeeks",
+            "school"
+        ],
+        "to_add": [
+            "MA_15_school_coef"
+        ],
+        "ma": [
+            0,
+            1,
+            1,
+            0
+        ],
+        "week_day_indicator": [],
+        "auto_corr": [],
+        "feature_selection": false
+    },
+    "3_6_5_2": {
+        "to_remove": [
+            "MonthWeeks",
+            "MA-15",
+            "Occastion_ID",
+            "MA-30",
+            "Month_Day_Cos",
+            "IsHolliday",
+            "Week_Day_Cos",
+            "Month_Sin"
+        ],
+        "to_add": [
+            "MA_15_school_coef",
+            "MA_30_school_coef"
+        ],
+        "ma": [
+            0,
+            1,
+            1,
+            0
+        ],
+        "week_day_indicator": [],
+        "auto_corr": [
+            1,
+            0,
+            0,
+            0
+        ],
+        "feature_selection": false
+    },
+    "3_6_3_1": {
+        "to_remove": [
+            "school",
+            "Occastion_ID",
+            "Week_Day_Cos",
+            "Month_Cos"
+        ],
+        "to_add": [
+            "NourozHolliday_Coef",
+            "LastWeekOfYear"
+        ],
+        "ma": [
+            0,
+            1,
+            1,
+            0
+        ],
+        "week_day_indicator": [],
+        "auto_corr": [
+            1,
+            0,
+            0,
+            0
+        ],
+        "feature_selection": false
+    },
+    "3_6_3_2": {
+        "to_remove": [
+            "school",
+            "Occastion_ID",
+            "Week_Day_Cos",
+            "Month_Cos"
+        ],
+        "to_add": [
+            "NourozHolliday_Coef",
+            "LastWeekOfYear"
+        ],
+        "ma": [
+            0,
+            1,
+            1,
+            0
+        ],
+        "week_day_indicator": [],
+        "auto_corr": [
+            1,
+            0,
+            0,
+            0
+        ],
+        "feature_selection": false
+    },
+    "3_6_6_2": {
+        "to_remove": [
+            "school",
+            "Occastion_ID",
+            "Week_Day_Cos",
+            "Month_Cos"
+        ],
+        "to_add": [
+            "NourozHolliday_Coef",
+            "LastWeekOfYear"
+        ],
+        "ma": [
+            0,
+            1,
+            1,
+            0
+        ],
+        "week_day_indicator": [],
+        "auto_corr": [
+            1,
+            0,
+            0,
+            0
+        ],
+        "feature_selection": false
+    },
+    "3_6_8_1": {
+        "to_remove": [
+            "school",
+            "Occastion_ID",
+            "MA-15",
+            "Month_Cos"
+        ],
+        "to_add": [
+            "NourozHolliday_Coef",
+            "LastWeekOfYear",
+            "MA_15_school_coef"
+        ],
+        "ma": [
+            0,
+            1,
+            1,
+            0
+        ],
+        "week_day_indicator": [],
+        "auto_corr": [],
+        "feature_selection": false
+    },
+    "3_6_4_6": {
+        "to_remove": [
+            "Week_Day_Sin",
+            "IsHolliday",
+            "MA-15",
+            "Month_Day_Sin",
+            "Month_Day_Cos",
+            "MA-30"
+        ],
+        
+        "to_add": [
+        
+        "MA_15_school_coef",
+        "School_Days_Sin",
+        "School_Days_Cos"
+        
+        ],
+        
+        "ma": [
+            0,
+            1,
+            1,
+            0
+        ],
+        "week_day_indicator": [],
+        "auto_corr": [],
+        "feature_selection": false
+    },
+    "3_6_8_3": {
+        "to_remove": [],
+        "to_add": [],
+        "ma": [],
+        "week_day_indicator": [],
+        "auto_corr": [],
+        "feature_selection": false
+    },
+    "3_6_2_2": {
+        "to_remove": [],
+        "to_add": [],
+        "ma": [],
+        "week_day_indicator": [],
+        "auto_corr": [
+            1,
+            0,
+            0,
+            0
+        ],
+        "feature_selection": false
+    },
+    "7_5_1_1": {
+        "to_remove": [
+            "NourozHolliday",
+            "Occastion_ID",
+            "IsHolliday"
+        ],
+        "to_add": [
+            "LastWeekOfYear",
+            "BeforeWeekend",
+            "campaign"
+        ],
+        "ma": [
+            0,
+            1,
+            1,
+            0
+        ],
+        "week_day_indicator": [],
+        "auto_corr": [
+            1,
+            0,
+            0,
+            1
+        ],
+        "feature_selection": false
+    },
+    "7_5_1_3": {
+        "to_remove": [
+            "NourozHolliday",
+            "Occastion_ID",
+            "IsHolliday"
+        ],
+        "to_add": [
+            "LastWeekOfYear",
+            "BeforeWeekend",
+            "campaign"
+        ],
+        "ma": [
+            0,
+            1,
+            1,
+            0
+        ],
+        "week_day_indicator": [],
+        "auto_corr": [
+            1,
+            0,
+            0,
+            0
+        ],
+        "feature_selection": false
+    },
+    "7_5_1_4": {
+        "to_remove": [
+            "NourozHolliday",
+            "Occastion_ID",
+            "IsHolliday"
+        ],
+        "to_add": [
+            "LastWeekOfYear",
+            "BeforeWeekend",
+            "campaign"
+        ],
+        "ma": [
+            0,
+            1,
+            1,
+            0
+        ],
+        "week_day_indicator": [],
+        "auto_corr": [
+            1,
+            0,
+            0,
+            0
+        ],
+        "feature_selection": false
+    },
+    "7_5_2_2": {
+        "to_remove": [
+            "NourozHolliday",
+            "Occastion_ID",
+            "school",
+            "MA-15",
+            "MA-30"
+        ],
+        "to_add": [
+            "MA_30_summerdays",
+            "MA_15_summerdays"
+        ],
+        "ma": [
+            0,
+            1,
+            1,
+            0
+        ],
+        "week_day_indicator": [],
+        "auto_corr": [],
+        "feature_selection": false
+    },
+    "7_5_2_3": {
+        "to_remove": [
+            "NourozHolliday",
+            "Occastion_ID",
+            "school",
+            "MA-15",
+            "MA-30"
+        ],
+        "to_add": [
+            "MA_30_summerdays",
+            "MA_15_summerdays"
+        ],
+        "ma": [
+            0,
+            1,
+            1,
+            0
+        ],
+        "week_day_indicator": [],
+        "auto_corr": [],
+        "feature_selection": false
+    },
+    "7_5_2_4": {
+        "to_remove": [
+            "NourozHolliday",
+            "Occastion_ID",
+            "school",
+            "MA-15",
+            "MA-30"
+        ],
+        "to_add": [
+            "MA_30_summerdays",
+            "MA_15_summerdays"
+        ],
+        "ma": [
+            0,
+            1,
+            1,
+            0
+        ],
+        "week_day_indicator": [],
+        "auto_corr": [],
+        "feature_selection": false
+    },
+    "7_5_2_5": {
+        "to_remove": [
+            "NourozHolliday",
+            "Occastion_ID",
+            "school",
+            "MA-15",
+            "MA-30"
+        ],
+        "to_add": [
+            "MA_30_summerdays",
+            "MA_15_summerdays"
+        ],
+        "ma": [
+            0,
+            1,
+            1,
+            0
+        ],
+        "week_day_indicator": [],
+        "auto_corr": [],
+        "feature_selection": false
+    },
+    "7_5_2_6": {
+        "to_remove": [
+            "NourozHolliday",
+            "Occastion_ID",
+            "school",
+            "MA-15",
+            "MA-30"
+        ],
+        "to_add": [
+            "MA_30_summerdays",
+            "MA_15_summerdays"
+        ],
+        "ma": [
+            0,
+            1,
+            1,
+            0
+        ],
+        "week_day_indicator": [],
+        "auto_corr": [],
+        "feature_selection": false
+    },
+    "7_5_2_7": {
+        "to_remove": [
+            "NourozHolliday",
+            "Occastion_ID",
+            "school",
+            "MA-15",
+            "MA-30"
+        ],
+        "to_add": [
+            "MA_30_summerdays",
+            "MA_15_summerdays"
+        ],
+        "ma": [
+            0,
+            1,
+            1,
+            0
+        ],
+        "week_day_indicator": [],
+        "auto_corr": [],
+        "feature_selection": false
+    },
+    "7_5_3_1": {
+        "to_remove": [
+            "NourozHolliday",
+            "Occastion_ID",
+            "school",
+            "IsHolliday",
+            "Month_Cos"
+        ],
+        "to_add": [],
+        "ma": [
+            0,
+            1,
+            1,
+            1
+        ],
+        "week_day_indicator": [],
+        "auto_corr": [
+            1,
+            0,
+            0,
+            0
+        ],
+        "feature_selection": false
+    },
+    "7_5_3_4": {
+        "to_remove": [
+            "school"
+        ],
+        "to_add": [
+            "StartOfLongWeekend",
+            "IsBeforeHolliday",
+            "AfterWeekend",
+            "Nouroz_MA_30"
+        ],
+        "ma": [
+            0,
+            1,
+            1,
+            0
+        ],
+        "auto_corr": [
+            1,
+            0,
+            0,
+            1
+        ],
+        "week_day_indicator": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    "7_5_3_5": {
+        "to_remove": [
+            "school"
+        ],
+        "to_add": [
+            "StartOfLongWeekend",
+            "IsBeforeHolliday",
+            "AfterWeekend",
+            "Nouroz_MA_30"
+        ],
+        "ma": [
+            0,
+            1,
+            1,
+            0
+        ],
+        "auto_corr": [
+            1,
+            0,
+            0,
+            1
+        ],
+        "week_day_indicator": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    "7_5_3_6": {
+        "to_remove": [
+            "school"
+        ],
+        "to_add": [
+            "StartOfLongWeekend",
+            "IsBeforeHolliday",
+            "AfterWeekend",
+            "Nouroz_MA_30"
+        ],
+        "ma": [
+            0,
+            1,
+            1,
+            0
+        ],
+        "auto_corr": [
+            1,
+            0,
+            0,
+            0
+        ],
+        "week_day_indicator": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    "7_5_3_7": {
+        "to_remove": [
+            "school"
+        ],
+        "to_add": [
+            "StartOfLongWeekend",
+            "IsBeforeHolliday",
+            "AfterWeekend",
+            "Nouroz_MA_30"
+        ],
+        "ma": [
+            0,
+            1,
+            1,
+            0
+        ],
+        "auto_corr": [
+            1,
+            0,
+            0,
+            1
+        ],
+        "week_day_indicator": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    "7_5_4_2": {
+        "to_remove": [
+            "Occastion_ID",
+            "school",
+            "IsHolliday",
+            "MonthWeeks",
+            "NourozHolliday"
+        ],
+        "to_add": [
+            "LastWeekOfYear",
+            "WeekDays_6_Discount",
+            "BeforeWeekend"
+        ],
+        "ma": [
+            0,
+            1,
+            1,
+            0
+        ],
+        "week_day_indicator": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "auto_corr": []
+    },
+    "7_5_4_3": {
+        "to_remove": [
+            "Occastion_ID",
+            "school",
+            "IsHolliday",
+            "MonthWeeks",
+            "NourozHolliday"
+        ],
+        "to_add": [
+            "LastWeekOfYear",
+            "WeekDays_6_Discount",
+            "BeforeWeekend"
+        ],
+        "ma": [
+            0,
+            1,
+            1,
+            0
+        ],
+        "week_day_indicator": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "auto_corr": [],
+        "feature_selection": true
+    },
+    "7_5_6_1": {
+        "to_remove": [],
+        "to_add": [
+            "StartOfLongWeekend",
+            "IsBeforeHolliday",
+            "AfterWeekend",
+            "Nouroz_MA_30",
+            "MA_15_Days_1"
+        ],
+        "ma": [
+            0,
+            1,
+            1,
+            0
+        ],
+        "auto_corr": [
+            1,
+            0,
+            0,
+            0
+        ],
+        "week_day_indicator": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "feature_selection": false
+    },
+    "7_5_6_4": {
+        "to_remove": [
+            "MA-30",
+            "school",
+            "Occastion_ID",
+            "MonthWeeks",
+            "Month_Cos",
+            "Month_Sin",
+            "Month_Day_Cos"
+        ],
+        "to_add": [
+            "StartOfLongWeekend",
+            "IsBeforeHolliday",
+            "AfterWeekend",
+            "Nouroz_MA_30",
+            "MA_15_Days_1"
+        ],
+        "ma": [
+            0,
+            1,
+            1,
+            0
+        ],
+        "auto_corr": [
+            1,
+            0,
+            0,
+            0
+        ],
+        "week_day_indicator": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    "7_5_7_1": {
+        "to_remove": [
+            "record",
+            "school",
+            "Occastion_ID",
+            "IsHolliday",
+            "NourozHolliday"
+        ],
+        "to_add": [
+            "IsBeforeHolliday"
+        ],
+        "ma": [
+            0,
+            1,
+            1,
+            0
+        ],
+        "week_day_indicator": [],
+        "auto_corr": [
+            1,
+            0,
+            0,
+            0
+        ],
+        "feature_selection": false
+    },
+    "7_5_7_2": {
+        "to_remove": [
+            "record",
+            "school",
+            "Occastion_ID",
+            "IsHolliday",
+            "NourozHolliday"
+        ],
+        "to_add": [
+            "IsBeforeHolliday"
+        ],
+        "ma": [
+            0,
+            1,
+            1,
+            0
+        ],
+        "week_day_indicator": [],
+        "auto_corr": [
+            1,
+            0,
+            0,
+            0
+        ],
+        "feature_selection": true
+    },
+    "7_5_7_3": {
+        "to_remove": [
+            "record",
+            "school",
+            "Occastion_ID",
+            "IsHolliday",
+            "NourozHolliday"
+        ],
+        "to_add": [
+            "IsBeforeHolliday"
+        ],
+        "ma": [
+            0,
+            1,
+            1,
+            0
+        ],
+        "week_day_indicator": [],
+        "auto_corr": [
+            1,
+            0,
+            0,
+            0
+        ],
+        "feature_selection": true
+    },
+    "7_5_8_2": {
+        "to_remove": [],
+        "to_add": [
+            "StartOfLongWeekend",
+            "IsBeforeHolliday",
+            "AfterWeekend",
+            "Nouroz_MA_30",
+            "MA_15_Days_1"
+        ],
+        "ma": [
+            0,
+            1,
+            1,
+            0
+        ],
+        "auto_corr": [
+            1,
+            0,
+            0,
+            1
+        ],
+        "week_day_indicator": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    "7_5_9_4": {
+        "to_remove": [],
+        "to_add": [
+            "StartOfLongWeekend",
+            "IsBeforeHolliday",
+            "AfterWeekend",
+            "Nouroz_MA_30",
+            "MA_15_Days_1"
+        ],
+        "ma": [
+            0,
+            1,
+            1,
+            0
+        ],
+        "auto_corr": [
+            1,
+            0,
+            0,
+            1
+        ],
+        "week_day_indicator": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    "7_5_9_3": {
+        "to_remove": [
+            "Occastion_ID"
+        ],
+        "to_add": [
+            "IsBeforeHolliday"
+        ],
+        "ma": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "auto_corr": [],
+        "week_day_indicator": [
+            1,
+            1,
+            0,
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    "7_5_9_1": {
+        "to_remove": [
+            "Occastion_ID"
+        ],
+        "to_add": [
+            "IsBeforeHolliday"
+        ],
+        "ma": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "auto_corr": [],
+        "week_day_indicator": [
+            1,
+            1,
+            0,
+            0,
+            0,
+            1,
+            0
+        ]
+    }
+}

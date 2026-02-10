@@ -1,0 +1,110 @@
+{
+    "Record_WeekDay": {
+        "a": "record",
+        "b": "WeekDays"
+    },
+    "WeekDay_Discount": {
+        "a": "Discount",
+        "b": "WeekDays"
+    },
+    "Summer_Discount": {
+        "a": "summerdays",
+        "b": "Discount"
+    },
+    "LongWeekendDay": {
+        "a": "StartOfLongWeekend",
+        "b": "WeekDays"
+    },
+    "MA_15_Days_1": {
+        "a": "MA-15",
+        "b": "WeekDays_1"
+    },
+    "Nouroz_MA_30": {
+        "a": "MA-30",
+        "b": "NourozHolliday_Coef"
+    },
+    "Nouroz_MA_15": {
+        "a": "MA-15",
+        "b": "NourozHolliday_Coef"
+    },
+    "LastWeekOfYear_MA_30": {
+        "a": "MA-30",
+        "b": "LastWeekOfYear"
+    },
+    "paycheck_MA_30": {
+        "a": "MA-30",
+        "b": "paycheck"
+    },
+    "WeekDays_6_Discount": {
+        "a": "Discount",
+        "b": "WeekDays_6"
+    },
+    "MA_15_Days_6": {
+        "a": "MA-15",
+        "b": "WeekDays_6"
+    },
+    "Month_Holliday": {
+        "a": "StartOfLongWeekend",
+        "b": "Month_Cos"
+    },
+    "Month_Holliday_2": {
+        "a": "StartOfLongWeekend",
+        "b": "Month_Sin"
+    },
+    "Month_MA_15": {
+        "a": "MA-15",
+        "b": "Month_Cos"
+    },
+    "Month_MA_30": {
+        "a": "MA-30",
+        "b": "Month_Sin"
+    },
+    "WeekDay_School": {
+        "a": "WeekDays",
+        "b": "school"
+    },
+    "WeekDay_MA_15": {
+        "a": "MA-15",
+        "b": "Week_Day_Sin"
+    },
+    "MA_30_school_coef": {
+        "a": "MA-30",
+        "b": "school_coef"
+    },
+    "MA_15_school_coef": {
+        "a": "MA-15",
+        "b": "school_coef"
+    },
+    "School_Days_Sin": {
+        "a": "school",
+        "b": "Week_Day_Sin"
+    },
+    "School_Days_Cos": {
+        "a": "school",
+        "b": "Week_Day_Cos"
+    },
+    "MA_7_school_coef": {
+        "a": "MA-7",
+        "b": "school_coef"
+    },
+    "summerdays_Week_Day_Sin": {
+        "a": "summerdays",
+        "b": "Week_Day_Sin"
+    },
+    "summerdays_Week_Day_Cos": {
+        "a": "summerdays",
+        "b": "Week_Day_Cos"
+    },
+    "summerdays_MA_15": {
+        "a": "summerdays",
+        "b": "MA_15"
+    },
+    "MA_15_summerdays": {
+        "a": "summerdays_coef",
+        "b": "MA_15"
+    },
+    "MA_30_summerdays": {
+        "a": "summerdays_coef",
+        "b": "MA_30"
+    }
+}

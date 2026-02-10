@@ -1,0 +1,66 @@
+data_fetching:
+  server_name: "SERVER'S NAME"
+  database_name: "DATABASE NAME"
+
+preprocessing:
+  features_to_keep:
+    - Date: int64
+    - WeekDays: int64
+    - MonthWeeks: int64
+    - Occastion_ID: int64
+    - IsHolliday: int64
+    - Month: int64
+    - Day: int64
+    # - YearMonth: int64
+    # - Subsidy: int64
+    - Shock: int64
+    - pShock: int64
+    - Year: int64
+    # - Corona: int64
+    # - Start_of_Year: int64
+    # - End_of_Year: int64
+    - Record: int64
+    # - Price: int64
+    # - school: int64
+    # - weekend: int64
+    - Discount: int64
+    - WeightQTY: int64
+    - BeforeWeekend: int64
+    - LongWeekend: int64
+    - AfterWeekend: int64
+    - StartOfLongWeekend: int64
+    - LastWeekOfYear: int64
+    - NourozHolliday: int64
+    - NourozHolliday_Coef: int64
+
+  sin_features:
+    - WeekDays: 7
+    - Day: 31
+    - MonthWeeks: 6
+    - Month: 12
+
+  features_to_dummies:
+    - Occastion_ID: int64
+
+  MA_variations:
+    - MA-60: 60
+    - MA-30: 30
+    - MA-15: 15
+    - MA-7: 7
+
+  T_variations:
+    - T-1: 1
+    - T-3: 3
+    - T-5: 5
+    - T-6: 6
+    - T-7: 7
+
+training:
+  validation_size: 15
+  models:
+    lgb:
+      type: lgb.LGBMRegressor
+      params:
+        n_jobs: 1
+        objective: regression
+        
